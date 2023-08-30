@@ -11,7 +11,7 @@ Repositorio para armazenar as informações da aula.
 ## Resumo da aula
 
 | Aula | Resumo |
-|------|--------|2 ddd
+|---2---|----2----|
 |Gravando alteração no Repositorio local|
 
 ```
